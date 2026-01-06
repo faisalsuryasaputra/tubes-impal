@@ -1,6 +1,6 @@
 # 🎬 Kasih Review - Backend Service
 
-> **Tugas Besar Implementasi Algoritma (IMPAL)**
+> **Tugas Besar IMPAL**
 > Backend service untuk aplikasi "Kasih Review", dibangun menggunakan Java Spring Boot dan Docker.
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=openjdk)
